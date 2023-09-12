@@ -1,0 +1,47 @@
+IDE -> Integrated Development Environment
+SDK | JDK (version of Java is nothing but Version of JDK)
+JDK of 20,17,15 having breakdown features
+JDK-> Java Development Kit | JRE-> Java Runtime Environment | JVM-> Java Virtual Machine
+SDK-> Software Development Kit
+
+JRE vs JVM vs JDK
+JRE => Having class Libraries,It includes JVM in it, Tools in it
+JVM => Place to run or execute the java applications (Platform Independent)
+    => can run bytecode file,class loader ,heap, stack memory
+JDK => It includes JRE in it, contains Development tools
+
+simple.java => compiler => simple.class(bytecodes) => run (JVM)
+
+Objected Oriented Languages => Considered each and every element is called as object
+Java is platform independent language => it can run on any OS because of bytecode structure
+API => Application Program interface
+WORA => write once and run anywhere
+
+Java Used in:
+standalone
+webapplication=> spring, hibernate
+Enterprise
+Mobile application => Andriod, iOS
+
+Object | Classes
+
+Dog => states/properties => legs,ears,color,breed,name
+    => behaviours => barking, eating, sniffing
+
+Class => blueprint => legs,ears,color,breed,name
+                   =>  barking, eating, sniffing
+
+Object => Dog
+
+Access Modifier (Class, variable, method, constructor) they manage to access these
+                default => if we don't mention it
+                private => class only
+                public => anyone
+                proctected => package and subclass
+
+Non-Access Modifier
+    Static
+    Final
+    abstract
+    (synchronised, volatile) => used in threats
+
