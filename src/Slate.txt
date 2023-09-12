@@ -45,3 +45,24 @@ Non-Access Modifier
     abstract
     (synchronised, volatile) => used in threats
 
+You can have multiple main methods in java just but changing parameters(String args[]) - IMP
+
+Types of Variables => Changes with Placement of Variable
+local
+instance
+static
+
+Private is recommended for the instance variable (call must by using object variable)
+Static variable can be shared by all copies of methods (i.e.., That can be called without calling the object variable)
+local variable must be initialized (call must by using object variable)
+
+Data Types => primitive -> int,double,float,char
+           => non-primitive(Data Structures) -> String, Array, list
+
+Operators  => arithmetic, boolean, comparative, logical
+
+type casting =>widening ,narrowing
+byte - short - char - int - long - float - double
+--->>>> widening (automatically)
+                                narrowing(manually) <<<----
+
