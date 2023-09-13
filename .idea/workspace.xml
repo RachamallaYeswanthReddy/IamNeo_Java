@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ba95637-1344-49a4-af07-047b3cdc5afb" name="Changes" comment="Day-2">
+      <change afterPath="$PROJECT_DIR$/src/Dowhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Foreach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Forloop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Whileloop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Slate.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Slate.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Variable.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +28,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/ClassObject.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Forloop.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Slate.txt" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Variable.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/variables.java" root0="SKIP_INSPECTION" />
@@ -78,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694603913047</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Day-2">
+      <created>1694620028451</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1694620028451</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
