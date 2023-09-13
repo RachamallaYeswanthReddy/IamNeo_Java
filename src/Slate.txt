@@ -80,3 +80,26 @@ for loop -> for(initialize expr;test expr;update expr){
 }
 
 while loop
+
+-----------Day-3-----------
+
+Switchcase --> Alternative of if-else ladder
+
+Arrays:
+    non primitive data types => bcoz.. they are not predefined
+    contains elements of same datatype
+    is an object, length method instead of size
+    contiquous memory location => by indexing
+
+One Dimensional Array:
+    declaration : datatype[] arrayname; (or) datatype arrayname[]; => pointing reference
+    instantiating the array : arrayname = new datatype[length];
+    initialize : arrayname = {1,2,3,4,5};
+    int[] arr= new int[]{4,5,6,7};
+    int[] arr = {1,2,3,4,5,6}; // this is accepted in the modern java
+
+. . Java is pass by value but inside it is pass by reference
+
+Disadvantage of array :
+    fixed size we can't alter the size of array once it fixed
+
