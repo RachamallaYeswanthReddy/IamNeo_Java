@@ -70,3 +70,13 @@ byte - short - char - int - long - float - double
 
 Do local variable have default value ? No, It can be possible in only static and Instance
 Can local variable can be accessed from other methods? -- Yes, by calling an object
+
+local variable dont need access modifiers and static,Instance variable need access modifiers
+
+Loops
+
+for loop -> for(initialize expr;test expr;update expr){
+    statements to execute
+}
+
+while loop

@@ -9,6 +9,8 @@ public class Variable {
     public void localmethod(){
         int localvar= 20;
         System.out.println("Local Variable: " + localvar);
+        //instance
+        System.out.println(instvar);
     }
     public static void main(String[] args) {
         Variable vr = new Variable();
