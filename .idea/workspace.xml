@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ba95637-1344-49a4-af07-047b3cdc5afb" name="Changes" comment="Slate">
-      <change afterPath="$PROJECT_DIR$/src/ClassObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TypeCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variables.java" afterDir="false" />
+    <list default="true" id="8ba95637-1344-49a4-af07-047b3cdc5afb" name="Changes" comment="Day-1">
+      <change afterPath="$PROJECT_DIR$/src/Variable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Slate.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Slate.txt" afterDir="false" />
     </list>
@@ -28,6 +26,8 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/ClassObject.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Slate.txt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Variable.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/variables.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -42,12 +42,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -64,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694502512840</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Day-1">
+      <created>1694541475863</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694541475863</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -80,6 +87,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Slate" />
-    <option name="LAST_COMMIT_MESSAGE" value="Slate" />
+    <MESSAGE value="Day-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day-1" />
   </component>
 </project>

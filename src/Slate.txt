@@ -19,9 +19,9 @@ WORA => write once and run anywhere
 
 Java Used in:
 standalone
-webapplication=> spring, hibernate
+web application=> spring, hibernate
 Enterprise
-Mobile application => Andriod, iOS
+Mobile application => Android, iOS
 
 Object | Classes
 
@@ -37,7 +37,7 @@ Access Modifier (Class, variable, method, constructor) they manage to access the
                 default => if we don't mention it
                 private => class only
                 public => anyone
-                proctected => package and subclass
+                protected => package and subclass
 
 Non-Access Modifier
     Static
@@ -66,3 +66,7 @@ byte - short - char - int - long - float - double
 --->>>> widening (automatically)
                                 narrowing(manually) <<<----
 
+-----------Day-2-----------
+
+Do local variable have default value ? No, It can be possible in only static and Instance
+Can local variable can be accessed from other methods? -- Yes, by calling an object
