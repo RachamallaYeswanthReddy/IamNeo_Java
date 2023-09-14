@@ -103,3 +103,6 @@ One Dimensional Array:
 Disadvantage of array :
     fixed size we can't alter the size of array once it fixed
 
+Strings:
+
+Comparasion =>  == (or) .equals()
