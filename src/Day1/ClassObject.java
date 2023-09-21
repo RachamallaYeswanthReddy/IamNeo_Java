@@ -1,3 +1,5 @@
+package Day1;
+
 public class ClassObject {
     // Constructors
     public ClassObject(String name) {

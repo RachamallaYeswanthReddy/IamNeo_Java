@@ -1,3 +1,5 @@
+package Day3;
+
 class Student{
     public int regnum;
     public String name;

@@ -47,7 +47,7 @@ Non-Access Modifier
 
 You can have multiple main methods in java just but changing parameters(String args[]) - IMP
 
-Types of Variables => Changes with Placement of Variable
+Types of Variables => Changes with Placement of Day1.Variable
 local
 instance
 static
@@ -103,6 +103,20 @@ One Dimensional Array:
 Disadvantage of array :
     fixed size we can't alter the size of array once it fixed
 
-Strings:
+Day3.Strings:
 
 Comparasion =>  == (or) .equals()
+
+-----------Day-4-----------
+
+Encapsulation : hiding certain information to user or giving some access to data
+
+bundling or organising data or properties or fields and functions or method => single unit
+
+class. its own fields and methods
+
+data hiding
+
+placing instance variables in private
+
+getter and setter methods.

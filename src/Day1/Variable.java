@@ -1,3 +1,5 @@
+package Day1;
+
 public class Variable {
     //instance variable
     String instvar = "I am instance var";
@@ -8,7 +10,7 @@ public class Variable {
     //local variable
     public void localmethod(){
         int localvar= 20;
-        System.out.println("Local Variable: " + localvar);
+        System.out.println("Local Day1.Variable: " + localvar);
         //instance
         System.out.println(instvar);
     }
