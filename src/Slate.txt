@@ -120,3 +120,15 @@ data hiding
 placing instance variables in private
 
 getter and setter methods.
+
+Immutable classes => one they are set then we can't change the values
+    - It can be attained by removing set methods only
+    - only get methods
+    or - class final, properties => private or final, donot provider setter methods, only getter methods
+
+Inheritance :
+    - one class (subclass or child) inherit properties and methods from the another class(parent or superclass)
+    Two types or inheritance - single and multilevel inheritance
+is - a relationship
+vehicle => car,bus,cycle
+car

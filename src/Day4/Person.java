@@ -2,7 +2,7 @@ package Day4;
 
 //entity class
 
-public class Person {
+class Person {
 
     private String name;
     private int rollno;
@@ -13,11 +13,17 @@ public class Person {
     public String getName(){
         return name;
     }
-    public String getRollno(){
-        return name;
+    public int getRollno(){
+        return rollno;
     }
-    public String getAge(){
-        return name;
+    public int getAge(){
+        return age;
+    }
+
+    // setter methods
+
+    public void setName(String name) {
+        this.name = name;
     }
 
     public void setRollno(int rollno) {
@@ -29,6 +35,6 @@ public class Person {
     }
 
     public static void main(String[] aname) {
-        name= aname;
+        aname= aname;
     }
 }
