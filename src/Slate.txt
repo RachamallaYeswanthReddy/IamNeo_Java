@@ -71,7 +71,7 @@ byte - short - char - int - long - float - double
 Do local variable have default value ? No, It can be possible in only static and Instance
 Can local variable can be accessed from other methods? -- Yes, by calling an object
 
-local variable dont need access modifiers and static,Instance variable need access modifiers
+local variable don't need access modifiers and static,Instance variable need access modifiers
 
 Loops
 
@@ -83,7 +83,7 @@ while loop
 
 -----------Day-3-----------
 
-Switchcase --> Alternative of if-else ladder
+Switch-case --> Alternative of if-else ladder
 
 Arrays:
     non primitive data types => bcoz.. they are not predefined
@@ -105,7 +105,7 @@ Disadvantage of array :
 
 Day3.Strings:
 
-Comparasion =>  == (or) .equals()
+Comparison =>  == (or) .equals()
 
 -----------Day-4-----------
 
@@ -124,7 +124,7 @@ getter and setter methods.
 Immutable classes => one they are set then we can't change the values
     - It can be attained by removing set methods only
     - only get methods
-    or - class final, properties => private or final, donot provider setter methods, only getter methods
+    or - class final, properties => private or final, don't provider setter methods, only getter methods
 
 Inheritance :
     - one class (subclass or child) inherit properties and methods from the another class(parent or superclass)
@@ -132,3 +132,22 @@ Inheritance :
 is - a relationship
 vehicle => car,bus,cycle
 car
+
+-----------Day-5-----------
+
+Topics:
+    method overloading
+    method overriding
+    polymorphism
+    Abstraction
+
+Polymorphism : objects displaying various behaviours on environment
+
+two types : compile type and run time polymorphism
+
+these can be achieved by using overloading -> method and operator overloading
+compile type polymorphism can be attained by method overloading and also called as static binding or early binding
+runtime polymorphism can be attained by operator overloading and also called as Dynamic binding or late binding
+
+access modifier return type methodsname(arg) in method overloading
+
