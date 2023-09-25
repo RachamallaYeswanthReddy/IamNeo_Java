@@ -168,4 +168,5 @@ login class => implementation/execution/business logic, create a user, signin , 
 Basically Abstraction is process of hiding th implementation detail and showing one lead that
 you can do this or do that with this like that
 
+Multiple inheritance can be achieved by interface
 /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/

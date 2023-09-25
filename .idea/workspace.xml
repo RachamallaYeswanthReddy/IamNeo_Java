@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ba95637-1344-49a4-af07-047b3cdc5afb" name="Changes" comment="Day-5">
-      <change afterPath="$PROJECT_DIR$/src/Day5/Abstraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day5/ElectronicDevice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day5/MethodOverriding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day5/MethodOverriding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day5/ElectronicDevice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day5/ElectronicDevice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Slate.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Slate.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +19,7 @@
       <list>
         <option value="Record" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -146,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695629399316</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Day-5">
+      <created>1695633673789</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1695633673789</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
