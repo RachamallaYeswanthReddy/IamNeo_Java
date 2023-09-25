@@ -151,3 +151,21 @@ runtime polymorphism can be attained by operator overloading and also called as 
 
 access modifier return type methodsname(arg) in method overloading
 
+Abstraction => it can be implemented by two types
+
+Abstract classes
+Interface
+
+these both have very basic difference looks very similar
+
+the difference is in Declaration
+1. Encapsulation
+person class  => entity class => it contains properties or fields => username,passwords , getter and setter methods => encapsulation
+2. Abstraction
+class specifically(abstract classes/interface) that will abstract the methods => method signature without body
+login class => implementation/execution/business logic, create a user, signin , signout
+
+Basically Abstraction is process of hiding th implementation detail and showing one lead that
+you can do this or do that with this like that
+
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/

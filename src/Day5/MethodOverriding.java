@@ -8,9 +8,10 @@ public class MethodOverriding {
         Animal cat = new Cat(); // upcasting => widening(typecasting => keeping small datatype in bigger)
         cat.makeSound();
         //cat is of type animal , but it refers to an instance of Cat class
-        Animal dog = new Dog();
+        Animal dog = new Dog();//upcasting
         dog.makeSound();
         //dog is of type animal , but it refers to an instance of Dog class
+        Cat cat1 = new Cat();// this is also permitted
     }
 }
 // Inheritance
