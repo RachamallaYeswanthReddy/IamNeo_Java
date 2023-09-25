@@ -169,4 +169,53 @@ Basically Abstraction is process of hiding th implementation detail and showing 
 you can do this or do that with this like that
 
 Multiple inheritance can be achieved by interface
-/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+
+-----------Day-6-----------
+
+Collections => framework => architecture to store and manipulate the groups of objects
+Collections contains => set of interface and classes to implement the interface
+
+Interface => List,Set,Queue and Map
+Classes=> ArrayList,LinkedList
+Common methods=> add,remove,iterate,search
+Sorting,Searching => Collections is a class => sort(),contains(),indexOf()
+Iterations:
+Generics: ensure type safety   =>V V Imp (not covered in the syllabus)
+Utility class: Collections class=> max,reversing
+Wrapper Class: int => Integer, double => Double
+
+List<int> list = new List<>();      XX not allowed
+List<Integer> list = new List<>();
+
+    iterable => interface
+    Collection => interface
+
+List Interface        Set Interface         Queue Interface  => all these three interface they implement methods from the parent collections
+    ''''
+ArrayList => Class
+LinkedList => Class
+
+interface extends interface
+interface implements class
+
+Iterable: it is an Parent or root Interface , Contains one abstract class called iterator()=>return iterator object over the elements
+
+Collection: it is Interface
+
+List interface: ordered collections of data,indexing, Duplicates values
+ArrayList,LinkedList,vector, and stack, non synchronised
+
+Arraylist => dynamic array to store data, order maintained, faster in terms of adding and iterating
+contiguous memory location. 12,24,56,12= 112, 24=> 116, 56=> 120
+manipulation array is slower
+
+
+
+
+
+
+
+-----------Day-11-----------
+
+checked exe => try catch or with throw and throws keyword
+throw =>
