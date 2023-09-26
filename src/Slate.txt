@@ -218,4 +218,39 @@ manipulation array is slower
 -----------Day-11-----------
 
 checked exe => try catch or with throw and throws keyword
-throw =>
+
+
+-----------Day-12-----------
+
+File operations: under java.io package
+
+File is an abstract datatype
+stream => byte stream | character stream
+
+Character Stream handled by Reader class it is an abstract class
+subclasses :
+FileReader
+BufferedReader
+CharArrayReader
+FilterReader
+StringReader
+
+=> Writer class
+    - FileWriter
+    - BufferedWriter
+ByteStream : => InputStreamClass
+FileInputStream
+BufferedInputStream
+ByteArrayInputStream
+DataInputStream
+
+=> OutputStream
+    FileOutputStream
+    BufferedOutputStream
+
+Buffered Reader reads line by line where as File reader reads by char by char
+FileInputStream reads the characters to extract the byte code from the file
+
+FileReader => is recommended for reading the text or char
+
+If file size is larger BufferedInputStream is very faster

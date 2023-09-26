@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ba95637-1344-49a4-af07-047b3cdc5afb" name="Changes" comment="Day-5">
-      <change afterPath="$PROJECT_DIR$/src/Day11/Checked/FileNotFound.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day11/Checked/FileNotFoundThrows.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day11/ExceptionPropagation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day11/ExceptionPropagation2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day11/NestedTry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day11/NestedTry2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day11/NestedTry3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day11/ThrowWx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day11/package-info.java" afterDir="false" />
+    <list default="true" id="8ba95637-1344-49a4-af07-047b3cdc5afb" name="Changes" comment="Day-11">
+      <change afterPath="$PROJECT_DIR$/src/Day12/File" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day12/Input/BufferInputStream1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day12/Input/BufferedReader1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day12/Input/ByteArrayInputStream1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day12/Input/FileInputStream1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day12/Input/FileReader1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day12/Output/BufferedOutputStream1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day12/Output/BufferedWriter1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day12/Output/ByteArrayOutput1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day12/Output/FileOutputStream1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day12/Output/FileWriter1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day12/java-inputstream.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Day6/ArrayList.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Day6/LinkedList.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Day6/Student.java" afterDir="false" />
@@ -52,18 +55,26 @@
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2VHoFbXlOO0Kn3VZHJIxGlDqxkP" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\SAI\JAVA\IamNeo_\src\Day12" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -178,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695635072359</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Day-11">
+      <created>1695650573093</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1695650573093</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -193,13 +211,15 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Slate" />
     <MESSAGE value="Day-1" />
     <MESSAGE value="Day-2" />
     <MESSAGE value="Day-3" />
     <MESSAGE value="Day-4" />
     <MESSAGE value="Day-5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day-5" />
+    <MESSAGE value="Day-11" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day-11" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
