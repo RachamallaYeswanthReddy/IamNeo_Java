@@ -210,10 +210,14 @@ contiguous memory location. 12,24,56,12= 112, 24=> 116, 56=> 120
 manipulation array is slower
 
 
+Manipulation => linkedList is faster (Slower in Arraylist bcoz. of Contiguous memory location)
+Adding, iteration=> ArrayList is fast
 
+LinkedList=> Duplicate value,insertion order,non Synchronised,manipulation is faster
+follows FIFO => First in First out
 
-
-
+A node contains data and next
+Linkedlist can be operated from both end
 
 -----------Day-11-----------
 

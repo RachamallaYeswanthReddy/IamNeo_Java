@@ -1,21 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ba95637-1344-49a4-af07-047b3cdc5afb" name="Changes" comment="Day-11">
-      <change afterPath="$PROJECT_DIR$/src/Day12/File" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day12/Input/BufferInputStream1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day12/Input/BufferedReader1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day12/Input/ByteArrayInputStream1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day12/Input/FileInputStream1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day12/Input/FileReader1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day12/Output/BufferedOutputStream1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day12/Output/BufferedWriter1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day12/Output/ByteArrayOutput1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day12/Output/FileOutputStream1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day12/Output/FileWriter1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day12/java-inputstream.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day6/ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day6/LinkedList.java" afterDir="false" />
+    <list default="true" id="8ba95637-1344-49a4-af07-047b3cdc5afb" name="Changes" comment="Day-12">
+      <change afterPath="$PROJECT_DIR$/src/Day12/Assignment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day6/ArrayList1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day6/LinkedList1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Day6/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Slate.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Slate.txt" afterDir="false" />
@@ -62,14 +51,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "run.code.analysis.last.selected.profile": "pProject Default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\SAI\JAVA\IamNeo_\src\Day12" />
@@ -196,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695650573093</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Day-12">
+      <created>1695736753084</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1695736753084</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -219,7 +215,8 @@
     <MESSAGE value="Day-4" />
     <MESSAGE value="Day-5" />
     <MESSAGE value="Day-11" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day-11" />
+    <MESSAGE value="Day-12" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day-12" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
