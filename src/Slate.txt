@@ -217,7 +217,69 @@ LinkedList=> Duplicate value,insertion order,non Synchronised,manipulation is fa
 follows FIFO => First in First out
 
 A node contains data and next
-Linkedlist can be operated from both end
+Linked-list can be operated from both end
+
+-----------Day-7-----------
+SET Interface:
+Set extends from collection, collection extends from iterable interface
+duplicates values are not permitted
+Unordered(No indexing)
+classes => that implements set
+           Hashset
+           LinkedHashSet
+           TreeSet
+Properties or methods:
+    add
+    remove
+    contains
+    size
+    isEmpty
+    clear
+
+HashSet: is class that implements set interface
+       : No duplicates
+       : Contains null values
+       : non synchronized
+       : Doesnot maintain the order of the elements
+       : best used for search operations
+       : use hashtable to store data, Index|Hashcode calculated with mathematical algorithm
+
+good (word)=> Hashing Technique => terdfasg
+
+TreeSet: TreeSet class implements set interface
+tree Structure Root node -> left and right node
+elements stored in the ascending order
+It won't allow the duplicates
+ - Tree set implements a interface called Navigableset
+pollfirst-> lowest element(minimum element)
+polllast-> highest element(maximum element)
+
+Map:
+doesnt extend collections
+interface
+data is stored in the form of key value pairs
+key=> only one will be allowed, no duplicate keys
+duplicate values are allowed
+"entertainment" e 2, n 1,t 2,r 1, i 1
+null values are accepted
+
+keySet,values(),entryset()
+put(k,v)
+get(k)
+remove(k)
+
+-----------Day-8-----------
+TreeMap:
+    - Tree DataStructure
+    - sorted order (default - ascending)
+    - no duplicate keys are allowed
+    - Null keys are not allowed
+    - NavigableTree interface
+    - firstKey => lowestkey
+    - lastKey => highest key
+
+
+
 
 -----------Day-11-----------
 

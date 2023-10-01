@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ba95637-1344-49a4-af07-047b3cdc5afb" name="Changes" comment="Day-12">
-      <change afterPath="$PROJECT_DIR$/src/Day12/Assignment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day6/ArrayList1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day6/LinkedList1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day6/Student.java" afterDir="false" />
+    <list default="true" id="8ba95637-1344-49a4-af07-047b3cdc5afb" name="Changes" comment="Day-6">
+      <change afterPath="$PROJECT_DIR$/src/Day7/HashMap1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day7/HashSet1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day7/TreeSet1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day8/TreeMap1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Slate.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Slate.txt" afterDir="false" />
     </list>
@@ -56,6 +56,7 @@
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/SAI/JAVA/WebServices_IamNeo&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
@@ -192,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695736753084</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Day-6">
+      <created>1695881923813</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1695881923813</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -216,7 +224,8 @@
     <MESSAGE value="Day-5" />
     <MESSAGE value="Day-11" />
     <MESSAGE value="Day-12" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day-12" />
+    <MESSAGE value="Day-6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day-6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
